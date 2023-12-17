@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    text-align: justify;
+    background-image: url('https://cdn.mos.cms.futurecdn.net/BfemybeKVXCf9pgX9WCxsc.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.team-member,
+.mentor {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #ea5e22;
+}
+
+h2{
+    color: white;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
